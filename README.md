@@ -1,2 +1,2 @@
-# Ibyt-token-assets
+# Ibyte-token-assets
 Assets for InterByte token
