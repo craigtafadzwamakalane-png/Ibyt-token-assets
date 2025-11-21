@@ -1,0 +1,11 @@
+components/UploadForm.jsx
+components/Player.jsx
+components/ItemCard.jsx
+utils/contract.js
+utils/ipfs.js
+pages/music.jsx
+pages/films.jsx
+pages/art.jsx
+pages/social.jsx
+pages/shop.jsx
+pages/wallet.jsx
